@@ -11,4 +11,5 @@ DisQuest creates a dummy process with the same folder structure, executable name
 - Quests for games not in the configs pulled from from [here](https://dotxh.github.io/data.json) will be grayed out with a "Configuration missing" message until a configuration is made for that game
 
 
-<img width="1250" height="828" alt="image" src="https://github.com/user-attachments/assets/0cb0b8c5-6582-447c-9157-12eac3010e8d" />
+
+<img width="1250" height="828" alt="549781565-0cb0b8c5-6582-447c-9157-12eac3010e8d" src="https://github.com/user-attachments/assets/c34c4d41-8614-43b5-8fef-fed4a7a2390b" />
